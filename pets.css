@@ -1,0 +1,39 @@
+.title{
+   text-align: center;
+  
+    
+color: crimson;
+}
+.container{
+   font-style: italic;
+ font-size: 30px;
+ text-align: center; 
+ color:darkblue;
+ background-color: cornsilk;
+ overflow:auto;
+ border-width:small;
+ display: flex;
+ width: auto;
+}
+
+.pic{
+   padding: 20px;
+   
+   text-align: center;
+   background-color:black;
+}
+
+.category{
+margin: 50px;
+float: left;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+align-items: stretch;
+justify-content: center;
+padding: 5px 5px;
+color: darkblue;
+border: 3px honeydew;
+width: 170px;
+
+}
